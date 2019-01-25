@@ -18,7 +18,7 @@
     
     ![](readme_image/04.png)
     
-5. 将上面两个key填到 poem.py 的 `get_token_key()`中
+5. 将上面两个key填到 poem.py 的 `get_token_key()`
 6. 调用 `get_token_key` 获取 token key
 7. 将 token key 字符串填到 couplet.py 中
 8. 执行 couplets.py

@@ -10,8 +10,8 @@ from pprint import pprint
 
 def get_token_key():
     token_key = ''
-    client_id = 'your id'
-    client_secret = 'your secret'
+    client_id = 'your id'  # API key
+    client_secret = 'your secret'  # Secret key
 
     host = f'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials' \
         f'&client_id={client_id}&client_secret={client_secret}'
