@@ -23,3 +23,7 @@
 7. 将 token key 字符串填到 couplet.py 中
 8. 执行 couplets.py
 9. 浏览器访问 127.0.0.1:5000
+
+## Reference
+
+前端界面参考：[王斌给您对对联](https://ai.binwang.me/couplet/)
